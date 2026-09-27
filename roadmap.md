@@ -1,0 +1,3 @@
+- [x] Establish centralized event details and a cinematic visual system.
+- [x] Build the four-section animated single-page experience.
+- [x] Verify desktop and mobile presentation and interactions.
